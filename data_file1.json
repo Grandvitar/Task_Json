@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Борис",
+        "last_name": "Мелешко",
+        "salary": "5000",
+        "age": "38",
+        "position": "менеджер"
+    },
+    {
+        "id": 2,
+        "name": "Светлана",
+        "last_name": "Изотова",
+        "salary": "3200",
+        "age": "32",
+        "position": "Менеджер"
+    },
+    {
+        "id": 3,
+        "name": "Петр",
+        "last_name": "Первый",
+        "salary": "2500",
+        "age": "54",
+        "position": "менеджер"
+    },
+    {
+        "id": 4,
+        "name": "Петр",
+        "last_name": "Первый",
+        "salary": "450",
+        "age": "52",
+        "position": "он"
+    },
+    {
+        "id": 5,
+        "name": "Pit",
+        "last_name": "Павлов",
+        "salary": "1500",
+        "age": "56",
+        "position": "певец"
+    }
+]
